@@ -1,6 +1,6 @@
 package com.example.cargame
 
 interface GameTask {
-    fun closeGame(score:Int)
+    fun closeGame(mScore:Int)
 
 }
