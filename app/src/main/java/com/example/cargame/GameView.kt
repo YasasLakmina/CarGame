@@ -21,7 +21,7 @@ class GameView(var c:Context,var gameTask: GameTask):View(c)
     var viewWidth = 0
     var viewHeight = 0
     init{
-      myPaint = Paint()
+        myPaint = Paint()
     }
 
     override fun onDraw(canvas: Canvas) {

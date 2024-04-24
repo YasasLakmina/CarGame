@@ -41,4 +41,5 @@ class MainActivity : AppCompatActivity(), GameTask {
         startBtn.visibility = View.VISIBLE
         score.visibility = View.VISIBLE
     }
+
 }
